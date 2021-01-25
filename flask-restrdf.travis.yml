@@ -19,6 +19,7 @@ python:
   - "3.4"
   - "3.5"
   - "pypy"
+  
 #Excluding python: pypy on power as it is not supported.
 jobs:
  exclude:
